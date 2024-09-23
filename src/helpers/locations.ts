@@ -1,0 +1,21 @@
+const locations: any = {
+    CASEINFO: '/caseinformation/',
+    POSTURE: '/posture/',
+    ALLEGEDLIABILITYDEFECT: '/AllegedLiabilityDefect/',
+    CAUSESOFACTIONCLAIM: '/CausesofActionClaim/',
+    OUTCOMEDISPOSITION : '/Outcomedisposition/',
+    OUTCOMEDISPOSITIONSPECIFICS :'/outcomedispositionspecific/',
+    MATTERSTATUS : '/matterstatus/',
+    MATTERTYPE :'/mattertype/',
+    VEHICLEPURCHASETYPE : "/vehiclePurchaseType/",
+    VEHICLEMODEL : '/vehiclemodel',
+    INJUREDPARTY : '/injuredParty/',
+    GENDER : '/gender/',
+    PARTYSTATUS : '/partystatus/',
+    JURISDICTION : '/jurisdiction/',
+    DEPONENTTYPE :'/deponentType/',
+    PlaintiffCounselDetails : '/CounselInfo',
+    PlaintiffCounselLocation :'/PlaintiffCounselLocation',
+    // LOGIN: '/notification/send_otp/',
+};
+export default locations

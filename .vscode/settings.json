@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/54aa1a34-a3d1-4ec2-91a8-d12d57153f3d/resourceGroups/CaseManagementTool/providers/Microsoft.Web/sites/CaseManagementToolUI",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}

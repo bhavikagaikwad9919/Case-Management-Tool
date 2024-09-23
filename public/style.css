@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+.e-headercelldiv {
+    font-size: 14px!important;
+    color: #000;
+}
+body {
+    font-family: 'Outfit', sans-serif !important;
+}
+.e-tab.e-fill .e-tab-header .e-toolbar-items.e-hscroll{
+    width: 100%
+}
+.rightPannelWarp{
+    max-width: 1290px !important;
+    width: 100% !important;
+}
+
+#default-sidebar{
+    position: fixed;
+    height: 100vh!important;
+    z-index: 1048 !important;
+    top: 84px;
+    background-color: #000000 !important;
+}
+
+.topheader{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1020 !important;
+}
+.buttonMargin{margin-left: 180px!important;}
+
+table thead th:first-child {
+    background: #f28b00 !important
+}
+
+/* .e-input-group.e-control-wrapper input{
+    height: 36px !important;
+    border: 1px solid #cccccc !important;
+    border-radius: 2px !important;
+}
+
+.e-input-group.e-control-wrapper textarea{
+    border: 1px solid #cccccc !important;
+    border-radius: 2px !important;
+} */
